@@ -1,0 +1,49 @@
+body {
+    font: 25 px Arial, sans-serif;
+    color: whitesmoke;
+}
+.navbar {
+    background-color: #2ECCFA; 
+      
+}
+.quem-somos {
+    background-color:#8000FF;
+   
+    
+}
+.margin { 
+    padding-bottom: 50px; 
+}
+.colaboradores {
+    background-color: #ff5100;
+}
+.servicos {
+    background-color: #348afa;
+    
+}
+.fale-conosco {
+    background-color: #ec8b3b;
+}
+.bg-footer {
+    clear: both;
+    background-color:#2ECCFA;
+    color: rgb(58, 7, 7);
+    height: 50px;
+	text-align: center;
+	padding: 10px;
+	font-size:18px;
+	text-shadow:1px 1px 1px #111111;
+}
+
+/*
+footer{
+	clear: both;
+    background-color:#2ECCFA;
+    color: rgb(58, 7, 7);
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+	font-size:18px;
+	text-shadow:1px 1px 1px #111111;
+}
+*/
